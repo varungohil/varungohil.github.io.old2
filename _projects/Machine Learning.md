@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Machine Learning
-description: undergrad-level class at IITGN
+description: undergrad-level class at IITGN 
 img: 
 importance: 4
 category: Teaching
